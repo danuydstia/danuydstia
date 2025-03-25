@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://tenor.com/id/view/anime-waifu-dance-gif-25689550?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://i.imgur.com/YOUR_IMAGE_ID.gif" width="200"/>
 </p>
+
