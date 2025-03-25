@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=fc0303&text=Hey%20Everyone!🕹️&fontColor=ffffff&reversal=true&textBg=false&fontSize=60&fontAlignY=34" />
 </p>
 <p align="right">
-   <img src="https://github.com/danuydstia/gif/blob/main/kny.gif" width="600"/>
+   <img src="https://github.com/danuydstia/gif/blob/main/anime.gif" width="600"/>
  </p>
 <!--
 **danuydstia/danuydstia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
