@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danuydstia&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Welcome!&fontSize=35&fontColor=white" />
 </p>
+
 
 <h1 style="font-style:bold;">
   HELLO EVERYONE
