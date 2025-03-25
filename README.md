@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/abc123.gif" width="200"/>
+  <img src="https://imgur.com/a/3dsFxCE" width="200"/>
 </p>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
