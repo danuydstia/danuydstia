@@ -1,4 +1,7 @@
-![](https://github.com/danuydstia/gif/blob/main/kny.gif)
+
+<p align="center">
+  <img src="https://github.com/danuydstia/gif/blob/main/kny.gif" width="300"/>
+</p>
 
 <!--
 **danuydstia/danuydstia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
