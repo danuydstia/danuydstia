@@ -1,6 +1,8 @@
-
+<h1 style="font-style:bold;">
+  HELLO EVERYONE
+</h1>
 <p align="center">
-  <img src="https://github.com/danuydstia/gif/blob/main/kny.gif" width="1000"/>
+  <img src="https://github.com/danuydstia/gif/blob/main/kny.gif" width="600"/>
 </p>
 
 <!--
