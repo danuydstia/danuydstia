@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=100&section=header&text=Hey%20Everyone!🕹️&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&section=header&text=Hey%20Everyone!🕹️&fontSize=60" />
 </p>
 <p align="center">
    <img src="https://github.com/danuydstia/gif/blob/main/kny.gif" width="600"/>
