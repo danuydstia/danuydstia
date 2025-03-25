@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HELLO%20EVERYONE&fontSize=90)
 <p align="center">
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HELLO%20EVERYONE&fontSize=90)
+  
 </p>
 <p align="center">
   <img src="https://github.com/danuydstia/gif/blob/main/kny.gif" width="600"/>
