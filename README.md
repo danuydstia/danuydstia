@@ -7,20 +7,32 @@
 ### 📌 Tentang Saya
 Halo! Nama saya **Danuyudistia**, mahasiswa **Teknologi Rekayasa Perangkat Lunak (TRPL)** di **Politeknik Negeri Batam**. Saat ini saya tinggal di **Batam** dan memiliki ketertarikan dalam dunia pemrograman serta pengembangan perangkat lunak.
 
-<p align="right">
-   <img src="https://github.com/danuydstia/gif/blob/main/anime.gif" width="300"/>
-</p>
+<br>
 
-### 🚀 Teknologi & Skill
-- 🔹 **Bahasa Pemrograman:** Python, JavaScript, Java
-- 🔹 **Frameworks:** React.js, Laravel
-- 🔹 **Database:** MySQL
-- 🔹 **Tools:** Git, VS Code
-
-### 🤝 Mari Terhubung!
-- 📫 **Email:** [danu.ydstia@gmail.com](mailto:danu.ydstia@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/danuyudistia](https://linkedin.com/in/danuydstia)
-- 🏡 **GitHub:** [github.com/danuydstia](https://github.com/danuydstia)
+## 🚀 Teknologi & Skill & 🤝 Mari Terhubung!
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>🔹 <b>Bahasa Pemrograman:</b> Python, JavaScript, Java</li>
+          <li>🔹 <b>Frameworks:</b> React.js, Laravel</li>
+          <li>🔹 <b>Database:</b> MySQL</li>
+          <li>🔹 <b>Tools:</b> Git, VS Code</li>
+        </ul>
+        <br>
+        <ul>
+          <li>📫 <b>Email:</b> <a href="mailto:danu.ydstia@gmail.com">danu.ydstia@gmail.com</a></li>
+          <li>💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/danuydstia">linkedin.com/in/danuydstia</a></li>
+          <li>🏡 <b>GitHub:</b> <a href="https://github.com/danuydstia">github.com/danuydstia</a></li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://github.com/danuydstia/gif/blob/main/anime.gif" width="250"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
