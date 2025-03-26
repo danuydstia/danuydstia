@@ -23,7 +23,7 @@ Halo! Nama saya **Danuyudistia**, mahasiswa **Teknologi Rekayasa Perangkat Lunak
         <br>
         <ul>
           <li>📫 <b>Email:</b> <a href="mailto:danu.ydstia@gmail.com">danu.ydstia@gmail.com</a></li>
-          <li>💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/danuydstia">linkedin.com/in/danuydstia</a></li>
+          <li>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/danu-yudistia-3a93352a9/">linkedin.com/in/danuydstia</a></li>
           <li>🏡 <b>GitHub:</b> <a href="https://github.com/danuydstia">github.com/danuydstia</a></li>
         </ul>
       </td>
