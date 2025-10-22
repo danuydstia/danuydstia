@@ -28,7 +28,7 @@ Halo! Nama saya **Danuyudistia**, mahasiswa **Teknologi Rekayasa Perangkat Lunak
         </ul>
       </td>
       <td>
-        <img src="https://jumpshare.com/s/lGc8D0CmhJgocngoLVaQ" width="250"/>
+        <img src="[https://jumpshare.com/s/lGc8D0CmhJgocngoLVaQ](https://jumpshare.com/s/lGc8D0CmhJgocngoLVaQ)" width="250"/>
       </td>
     </tr>
   </table>
