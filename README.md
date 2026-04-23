@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="header.svg" alt="Danu Yudistia" />
+  <img src="danu_readme_svg_header.svg" alt="Danu Yudistia" />
 </div>
